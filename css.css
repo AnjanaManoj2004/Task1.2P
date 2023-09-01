@@ -1,0 +1,25 @@
+h1{
+    color:black;
+    text-align: center;
+}
+
+body{
+    background-color: aliceblue
+
+}
+table,th,td{
+    border:1px solid black;
+}
+
+p{
+    font-family: verdana;
+    font-size: 20 px;
+}
+
+
+
+.List{
+    background-color: azure;
+    font-size: 10 px;
+}
+  
